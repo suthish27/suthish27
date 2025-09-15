@@ -54,5 +54,5 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
      <a href="mailto:suthishv092@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" title="Email" alt="Email" width="50" height="50"/>
        <a href="https://www.hackerrank.com/suthishv092" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="60" height="50"/>
   </a>
