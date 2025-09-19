@@ -39,7 +39,6 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
 [![trophy](https://github-profile-trophy.vercel.app/?username=suthish27&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-![Suthish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suthish27&theme=github-compact&v=20250919082410)
 
 ![snake gif](https://github.com/suthish27/suthish27/blob/output/github-snake-dark.svg)
 
