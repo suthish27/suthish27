@@ -1,5 +1,5 @@
 👋 Hi, I'm Suthish V – Web Developer
-<body bgcolor="red">
+
 I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about crafting interactive, user-friendly websites and applications. I enjoy building responsive frontends, exploring new web technologies, and bringing creative designs to life through code.
 
 ---
@@ -56,4 +56,3 @@ I'm a Computer Science student (B.E. CSE, graduating 2026) passionate about craf
        <a href="https://www.hackerrank.com/suthishv092" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" title="HackerRank" alt="HackerRank" width="80" height="50"/>
   </a>
-     </a></body>
